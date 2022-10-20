@@ -24,5 +24,10 @@ router.post("/notes", async function (req, res) {
     res.json(data);
 });
 
+// router.delete("/notes/:id", (req, res) => {
+//     const deleteNote= {
+
+
+//     })
 
 module.exports = router
