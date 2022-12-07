@@ -26,3 +26,5 @@ a Save icon appears in the navigation at the top of the pageapplication is cover
  
 
  
+## Deployed link 
+[link](https://note-taker-production-9b0d.up.railway.app/)
